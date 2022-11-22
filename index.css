@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #1B244A;
+    font-family: 'Cursed Timer ULiL';
+    
+}
+
+.column {
+    color: #EEEEEE;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+button {
+    background: none;
+    color: #9AABD8;
+    border-color: #9AABD8;
+    border-radius: 5px;
+}
+
